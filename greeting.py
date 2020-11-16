@@ -1,5 +1,5 @@
 def greeting(name):
-    print(f'Hi, {name}!')
+    print(f'Hi, {name}! How are you?')
 
 
 if __name__ == '__main__':
