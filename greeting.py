@@ -1,6 +1,6 @@
 def greeting(name, surname, age):
     print(f'Hi, {name} {surname}!')
-    print(f"Are you only {age} years old?")
+    print(f"Are you only {age} years old?! It's time to start learning Python!")
 
 
 if __name__ == '__main__':
