@@ -1,5 +1,5 @@
 def greeting(name, surname, age):
-    print(f'Hi, {name} {surname}! How are you?')
+    print(f'Hi, {name} {surname}!')
     print(f"Are you only {age} years old?")
 
 
