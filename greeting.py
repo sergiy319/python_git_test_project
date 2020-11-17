@@ -3,6 +3,7 @@ def greeting(name, surname, age, language):
     print(f"Are you only {age} years old?! Best age to learn {language}!")
     print('Listen carefully to the lectures.')
     print('Do your homework.')
+    print('Good luck!')
 
 
 if __name__ == '__main__':
